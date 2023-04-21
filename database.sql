@@ -1,0 +1,3 @@
+CREATE DATABASE cars;
+CREATE DATABASE supercars;
+CREATE TABLE users (id INT, name VARCHAR(255), email VARCHAR(255), pass (255));
